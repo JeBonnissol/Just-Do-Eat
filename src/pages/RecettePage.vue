@@ -8,7 +8,7 @@
             <h2>Nom de la recette</h2>
             <div class="">
                 <p>25 Minutes</p>
-
+                    <h3>Ouai</h3>
                 <p>Intermédiaire</p>
             </div>
     </div>
