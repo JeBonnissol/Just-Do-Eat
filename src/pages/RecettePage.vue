@@ -6,10 +6,10 @@
     <div class="recette">
             <img src="../assets/pizza.png" alt="">
             <h2>Nom de la recette</h2>
-            <div class="">
+            <div class="infos">
                 <p>25 Minutes</p>
-                    <h3>Ouai</h3>
                 <p>Intermédiaire</p>
+                <h4>695 Kcal</h4>
             </div>
     </div>
 </template>
@@ -27,5 +27,12 @@
 
     .recette{
         border-radius:60px;
+        box-shadow: 0px 0px 15px rgba(0, 0, 255, 0.15);
+        padding:15px;
+        width: 300px;
+        height: 430px;
+        margin:auto;
     }
+
+
 </style>
